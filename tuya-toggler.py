@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/Users/ahmosys/Developer/tools/raycast/raycast-script-cmd/.venv/bin/python3
 
 # Required parameters:
 # @raycast.schemaVersion 1

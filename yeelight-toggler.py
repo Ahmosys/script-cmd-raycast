@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/Users/ahmosys/Developer/tools/raycast/raycast-script-cmd/.venv/bin/python3
 
 # Required parameters:
 # @raycast.schemaVersion 1
@@ -14,8 +14,9 @@
 # @raycast.author ahmosys
 # @raycast.authorURL https://raycast.com/ahmosys
 
-from yeelight import Bulb, BulbException
 import sys
+from yeelight import Bulb, BulbException
+
 
 ROOM_BULB_IP = "192.168.1.67"
 
